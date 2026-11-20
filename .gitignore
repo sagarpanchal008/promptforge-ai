@@ -1,0 +1,8 @@
+.env
+.streamlit/secrets.toml
+database/prompt_vault.db*
+venv/
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
